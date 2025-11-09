@@ -96,9 +96,9 @@ It presents transactions that occurred over two days, with **492 frauds out of 2
 ```
 📦 ML_Project_Credit_Card_Fraud_Detection
 │
-├── Credit_Card_Fraud_Detection.ipynb     # Jupyter Notebook implementation
-├── creditcardfraud.csv                   # Dataset used
-└── README.md                             # Documentation file
+├── Credit_Card_Fraud_Detection.ipynb                     # Jupyter Notebook implementation
+├── creditcardfraud.csv                                   # Dataset used
+└── README.md                                             # Documentation file
 
 ```
 ---
